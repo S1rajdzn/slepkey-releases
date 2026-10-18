@@ -2,9 +2,7 @@
 
 A compact, offline keyboard-sound utility for Windows 10/11 x64.
 
-**[Download Slepkey 1.0.0](https://github.com/S1rajdzn/slepkey-releases/releases/download/v1.0.0/slepkey-1.0.0-windows-x64.zip)**
-
-[Release notes and checksums](https://github.com/S1rajdzn/slepkey-releases/releases/latest)
+**[Download for Windows](https://github.com/S1rajdzn/slepkey-releases/releases/download/v1.0.0/slepkey-1.0.0-windows-x64.zip)**
 
 ## Run the app
 
